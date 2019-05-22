@@ -13,7 +13,7 @@
     "type": "project",
     "require": {
 		"php": ">=7.1",
-        "php-http/client-implementation": "^1.0",
+        "php-http/client-implementation": ">=0.1",
         "php-http/client-common": "^1.7",
         "php-http/discovery": "^1.4",
         "php-http/httplug": "^1.1",
